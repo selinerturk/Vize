@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "Türkiye'de Alınan Verilen Göçler ve İllere Dağılımı"
 author: 
-  - İsim Soyisim[^1]
+  - Selin Ertürk[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 21080351, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
 
 # Vize Hakkında Önemli Bilgiler
 
@@ -45,10 +45,11 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 \colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
+ Göç insanların doğal, ekonomik, sosyal ve siyasal nedenlerden dolayı sürekli yaşadığı yerlerden başka yerlere toplu olarak veya bireysel olarak yerleşmeleri olayına denir.Bu yerleşim ülke içinde veya ülkeler arası olabilir. Her ikisinin ana sebebi de mevcut şartlardan daha iyi olan şartlara sahip bir hayata geçmektir.  
 
+ Bu şartlar detaylı bir bakış açısıyla değerlendirildiğinde ülkenin durumu hakkında önemli bilgileri bize sunar. Dışa göç verme oranları artan bir ülkenin şartlarında olumsuz gelişen durumlar olduğunu söylemek yanlış olmaz. Aynı şekilde dışardan göç alan bir ülke içinde diğer ülkelerden daha gelişmiş şartlara sahip olduğunu söyleyebiliriz. Göç genel olarak olumlu olumsuz olarak yorum yapabilirken arka planda yarattığı etkilerin de göz önünde bulundurulması gereken bir kavramdır. Çünkü göçün yarattığı bu mekansal değişim aynı zamanda birey, toplum ve milletlerin anlam ve değer dünyasının değişimi ve dönüşümünü de ifade etmektedir. Bu değişim ve dönüşümle beraber terk edilen ve yerleşilen yeni mekânla birlikte yeni mekânlardaki insanlar, değerler, kültürler ve insan ile ilgili ne varsa etkilenir.  
 
-Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
+  Ülkenin verdiği ve aldığı göçler olumlu olumsuz bir çok yansımayla karşılacaktır.Örneğin  gelişmişliği ile birlikte aldığı göçleri artan ülkelerde nüfusun karmaşıklığı da beraberinde bazı sorunları doğuracaktır. Dış ülkelere verdiği göçlerle birlikte nüfusunu kaybeden bir ülkede değerlerinde kayıplarla ve birliğinde kopmalar yaşayacaktır.Bu nedenlerle göç ülkeler için üstünde durulması gereken önemli bir konudur. 
 
 ## Çalışmanın Amacı
 Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
