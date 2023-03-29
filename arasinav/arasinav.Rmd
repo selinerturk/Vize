@@ -1,5 +1,5 @@
 ---
-title: "Türkiye'de Alınan Verilen Göçler ve İllere Dağılımı"
+title: "Türkiye'de Alınan Verilen Göçlerin İllere Dağılımı-Cinsiyet-Yaş İncelemesi "
 author: 
   - Selin Ertürk[^1]
 bibliography: ../bibliography/biblio.bib
@@ -52,7 +52,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
   Ülkenin verdiği ve aldığı göçler olumlu olumsuz bir çok yansımayla karşılacaktır.Örneğin  gelişmişliği ile birlikte aldığı göçleri artan ülkelerde nüfusun karmaşıklığı da beraberinde bazı sorunları doğuracaktır. Dış ülkelere verdiği göçlerle birlikte nüfusunu kaybeden bir ülkede değerlerinde kayıplarla ve birliğinde kopmalar yaşayacaktır.Bu nedenlerle göç ülkeler için üstünde durulması gereken önemli bir konudur. 
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+ Veri setim 2018-2019 yılları arsında Türkiye'de görülen dış göçlerin illere göre dağılımını,bireylerin Türk uyruklu ve yabancı uyruklu olması durumunu içermektedir.Yine aynı şekilde aynı yıllarda dış göçte etkili olan cinsiyet ve yaş aralığını belirtmektedir.Bu iki yıl esas alınarak dış göçün en çok etki ettiği iller hangileridir ve bu etkinin sonuçları nasıl değerlendirmelidir? Göçlerde etkili olan yaş grupları nelerdir ve bununla ilgili alınması gereken önlemler nelerdir? Göçlerde etkili olan cinsiyetler ve toplumdaki yeri nedir?Alınan ve verilen göçlerle birlikte ortaya çıkan nüfus değişikliği nasıl değerlendirilmelidir? Analizde ortaya koymak istediğim, tüm bu değişkenlerle birlikte göçün ortaya çıkardığı sonuçları temellere dayandırarak nasıl değerlendirmek gerekir,ne gibi politikalar izlemek gerekir sorularını yantlamaktır.
 
 ## Literatür 
 Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
