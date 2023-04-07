@@ -35,7 +35,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ============================== NOTLAR ================================= -->
 
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 21080351, [Github Repo](https://github.com/selinerturk/Vize)
 
 
 # Giriş
